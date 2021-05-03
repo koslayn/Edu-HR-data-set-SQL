@@ -1,4 +1,4 @@
-# Анализ данных HR отдела
+# Анализ данных HR отдела. 2020-03-21
 ## Источник данных
 Набор данных - [Human Resources Data Set](https://www.kaggle.com/rhuebner/human-resources-data-set) разработан Dr. Rich и периодически обновляется.  
 Сейчас доступна 13 версия [Codebook - HR Dataset v13](https://rpubs.com/rhuebner/HRCodebook-13) от 9/27/2019  
